@@ -1,4 +1,4 @@
-# ee101-as3-rock_scissor_rock_game
+# ee101-as2&3-rock_scissor_rock_game
 
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FIoTcat%2FRock_Scissor_Paper_game.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FIoTcat%2FRock_Scissor_Paper_game?ref=badge_shield)
 ![size](https://badge-size.herokuapp.com/iotcat/rock_scissor_paper_game/master/1717608_2.exe)
